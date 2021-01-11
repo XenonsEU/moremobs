@@ -1,0 +1,16 @@
+#More Mobs
+version: 1.0
+
+#Zombie Mobs
+
+zombierider: true
+zombieminer: true
+zombiejungle: true
+zombievariety: true
+
+
+#Skeleton Mobs
+skeletonrider: true
+skeletonminer: true
+skeletonjungle: true
+skeletonvariety: true
