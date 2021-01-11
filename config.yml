@@ -13,4 +13,8 @@ zombievariety: true
 skeletonrider: true
 skeletonminer: true
 skeletonjungle: true
-skeletonvariety: true
+
+
+#Drowned
+drownedswamp: true
+drownedvariety: true
